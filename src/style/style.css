@@ -1,0 +1,43 @@
+
+
+
+html,body {
+  margin: 0px;
+  height: 100%;
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,SimSun,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+
+.ts-table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #fff;
+  color: #5e6d82;
+  font-size: 14px;
+  margin-bottom: 45px;
+  line-height: 1.5em;
+}
+.ts-table thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+.ts-table tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+.ts-table th {
+  text-align: left;
+  border-top: 1px solid #eaeefb;
+  border-bottom: 1px solid #eaeefb;
+  padding: 10px;
+  background-color: #eff2f7;
+  white-space: nowrap;
+}
+.ts-table td {
+  border-bottom: 1px solid #eaeefb;
+  padding: 10px;
+}

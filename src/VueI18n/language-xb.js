@@ -1,0 +1,222 @@
+export const lang = {
+    noNum:'No más',
+    goumai:'Ya agregado al carrito de compras',
+    buzhu:'Stock insuficiente, por favor comunica con la oficina',
+    determine:'Determinación',
+    deleteSuccess:'Eliminado con éxito',
+    myRess:'Modificado con éxito',
+    placeOrder:'Pedido con éxito',
+    purchaseFailed:'No puede ser menor que la cantidad mínima de pedido.',
+    Submit:'Pedir',
+    Cancel:'Cancelar',
+    Ress:'Modificar',
+    Retuen:'Regresar',
+    preservation:'Guardar',
+    delete:'Borrar la dirección',
+    defaultAddress:'Establecer dirección',
+    inputCustomer:'Introduzca el nombre del cliente or RUT',
+    placeNew:'¡La señal de la red es inestable y la creación falló! ¡Por favor, inténtelo de nuevo más tarde!',
+    noInputBox:'Introduzca el nombre del cliente',
+    logoUt:'Cerrar',
+    Agregar:'Agregar',
+    UserInformation:'Por favor selecciona la información del cliente',
+    Confirmar:'Confirmar',
+    completa:'Por favor, introduzca la información completa',
+    oficina:'Su cuota es insuficiente，, por favor comunica con la oficina',
+    Errordered:'Error de red',
+    // Bottom navigation
+    navigation:{
+        goods:'Recomenda',
+        sort:'Catálogo',
+        shopping:'Pedidos',
+        my:'Mío',
+        contact:'Llámanos',
+    },
+    // Landing page
+    logins:{
+        welcome:'Bienvenido !',
+        username:'Introduzca el nombre de usuario',
+        password:'Introduzca la contraseña',
+        determine:'Entrar'
+    },
+    // home-homepage
+    homes:{
+        top:'Tiedas',
+        crux:'Buscar',
+        sale:'Recomenda',
+        model:'Código',
+        stock:'Stock',
+        norms:'Especificación',
+        cartWj:'Mas vendidos',
+        cartRt:'Novedades',
+        cartSg:'Outlet'
+    },
+    // home-Search page
+    homesearch:{
+        top:'Buscar',
+        searchGuan:'Buscar',
+        searchSou:'Buscar',
+        searchBao:'Embalaje',
+        searchXin:'Código',
+        searchShen:'Stock Actual',
+        searchShu:'Cantidad',
+
+    },
+    // 首页-商品详情
+    details:{
+        top:'Productos',
+        goodyxh:'Código',
+        goodypp:'Marca',
+        goodyzk:'Descuento',
+        goodydj:'Precio',
+        goodysy:'Stock Actual',
+        goodyqd:'Compra Minima de',
+        goodybz:'Embalaje',
+        // goodyqc:'全长',
+        // goodyzd:'最大开口',
+        // goodybm:'表面处理',
+        // goodycz:'材质',
+        // goodyzl:'重量',
+        goodyjr:'Añadir',
+        goodyfh:'Regresar',
+        goodygm:'Cantidad',
+        goodysykc:'Stock Actual'
+    },
+    // 分类
+    cart:{
+        top:'Catálogo',
+        cartWj:'Ferretería',
+        cartRt:'Grifería',
+        cartSg:'H.Manuales',
+        cartZd:'H.Automatriz',
+        cartDd:'H.Eléctrica',
+        cartJy:'H.Hogar',
+        cartJz:'H.Construcción',
+        cartHy:'Hogar y jardín',
+        cartYq:'Pintura',
+        cartAq:'Seguridad',
+    },
+    // 购物车
+    type:{
+        typeTop:'Pedidos',
+        typeBz:'Embalaje',
+        typeXh:'Código',
+        typeKc:'Stock',
+        typeZk:'Total',
+        typeXd:'Pedir',
+        typeTx:'No ha seleccionado un producto'
+    },
+    // 购物车-订单提交页
+    submit:{
+        submitCg:'El pedido ha sido enviado',
+        submitCk:'Ver mi pedido',
+        submitSc:'Regresar',
+    },
+    // 购物车-下单页
+    order:{
+        orderTop:'Confirmar la Orden',
+        orderSh:'Contactos',
+        orderLx:'Teléfono',
+        orderDz:'Dirección',
+        orderXh:'Código',
+        orderGg:'Embalaje',
+        orderDj:'Precio',
+        orderSl:'Cantidad',
+        orderBz:'Notas',
+        orderZk:'Tasa de descuento',
+        orderJehj:'Sub Total',
+        orderZkyh:'Descuento',
+        orderZhje:'Monto Neto',
+        orderZjehj:'Monto Total',
+        orderQxz:'Por favor selecciona cliente'
+    },
+    addRess:{
+        addRessTop:'Dirección',
+        addRessWdxx:'Mío',
+        addRessXgshdz:'Modificar la dirección',
+        addRessWd:'Empresa',
+        addRessWds:'Introduzca Empresa',
+        addRessLx:'Teléfono',
+        addRessLxs:'Introduzca  Teléfono',
+        addRessSh:'R.U.T.',
+        addRessShs:'Introduzca R.U.T.',
+        addRessYy:'Giro',
+        addRessYys:'Introduzca  Giro',
+        addRessXx:'Dirección',
+        addRessXxs:'Introduzca Dirección',
+        addRessCs:'Ciudad',
+        addRessCss:'Introduzca Ciudad',
+        addRessSf:'Provincia',
+        addRessSfs:'Introduzca Provincia',
+        addRessDq:'Comuna',
+        addRessDqs:'Introduzca Comuna',
+        addRessYx:'E-Mail',
+        addRessYxs:'Introduzca E-mail',
+        addRessGj:'País',
+        addRessGjs:'Introduzca  País',
+        addRessMrdz:'Establecer dirección',
+        addRessComuna:'Comuna',
+        addRessComunas:'Introduzca Comuna',
+    },
+    more:{
+        moreTop:'Datos del cliente',
+        moreMc:'Empresa',
+        moreSh:'R.U.T.',
+        moreZk:'Límite de descuento',
+        moreMy:'Cuota mensual',
+        moreBy:'El monto restante',
+        moreXw:'Seleccionar',
+        newTop:'Agregar Información del cliente',
+    },
+    search:{
+        searchTop:'Datos del cliente',
+        searchMore:'Más',
+        searchGs:'Dirección de la empresa',
+        searchXj:'Agregar Información del cliente'
+    },
+    // 我的
+    my:{
+        myTop:'Mío',
+        myWd:'Mío',
+        myLs:'Históricas',
+        mySh:'Dirección',
+        myKh:'Mi dato',
+        myBy:'Pedidos de este mes',
+        myYtj:'Pedidos',
+        myBhz:'En preparación',
+        myYfh:'Enviado',
+        myBh:'Número de pedido',
+        myZs:'Tipo',
+        myDd:'Estado del pedido',
+        myDq:'Área de pedidos',
+        mySp:'Cantidad total',
+        myRq:'Fecha de pedido',
+        myLsdd:'Históricas'
+    },
+    shipping:{
+        shippingTop:'Dirección de Envío',
+        shippingMr:'Dirección predeterminada',
+        shippingXz:'Añadir dirección de envío',
+
+    },
+    // 关于
+    contact:{
+        top:'Sobre',
+        contactYin:'Dirección de la empresa',
+        contactLian:'Teléfono：',
+    },
+    // 商品详情
+    myOrder:{
+        myOrderTop:'Pedidos Detalles',
+        myOrderBh:'pedido',
+        myOrderYw:'Vendedor',
+        myOrderSh:'Contactos',
+        myOrderLx:'Teléfono',
+        myOrderShone:'Dirección',
+        myOrderFh:'Fecha de entrega'
+    },
+    myNew:{
+        addRessWd:'Empresa',
+
+    }
+}
